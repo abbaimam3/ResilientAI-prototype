@@ -103,24 +103,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-App will open automatically in your browser.
-
-☁️ Deployment (Streamlit Cloud)
-
-This app can be deployed free on Streamlit Cloud.
-
-Push this repo to GitHub
-
-Go to https://share.streamlit.io
-
-Select your repo → select app.py → Deploy
-
-Copy your public URL
-
-Use the link in your Hackathon submission + live presentation
-
-Recommended: Deploy the repo to produce a public URL such as:
-https://resilientai.streamlit.app
+public URL: https://resilientai-prototype-3nvhypbufffdqge2msnpke.streamlit.app
 
 📌 Hackathon Team – ResilientAI
 
